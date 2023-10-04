@@ -4,7 +4,7 @@ This project utilises Flask to serve a webpage that interacts with saved tensorf
 
 This is the codebase that was created as part of this tutorial here:
 
-[![Youtube video link](http://img.youtube.com/vi/0nr6TPKlrN0/0.jpg)](http://www.youtube.com/watch?v=0nr6TPKlrN0)
+[![Youtube video link](https://i9.ytimg.com/vi_webp/kbLSJIWFLQA/mq1.webp?sqp=CKSV86gG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEggWChlMA8=&rs=AOn4CLCJA3nBVL4PABo_EuwEP98DX-4DBg)](https://youtu.be/kbLSJIWFLQA)
 
 I performed model training, tuning and testing in Google Colab using GPU runtime.
 
