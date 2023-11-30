@@ -33,4 +33,13 @@ python app.py
 2. Open your web browser and visit `http://localhost:3000`
 3. Select an image of a digit,  click on the `Predict Image` button to submit.
 
+## Output preview:
+
+
+![select_3](https://github.com/bishwa221/cnn_w_deployment/assets/94813630/71d0474b-a9f2-46f4-bc8e-04331cf263be)
+
+
+
+![predict_3](https://github.com/bishwa221/cnn_w_deployment/assets/94813630/3ea29065-e057-4f2c-9757-a6c6260dd7f3)
+
 
